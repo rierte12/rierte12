@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://naseinu.eus](https://naseinu.eus)
 
-- 📝 Winner of best website in basque (bachelor category)) [https://kaixomundua.eus/kaixomundua-eus-lehenengo-edizioaren-irabazleak-hemen-dira/](https://kaixomundua.eus/kaixomundua-eus-lehenengo-edizioaren-irabazleak-hemen-dira/)
+- 📝 Winner of best website in basque (bachelor category) [Read more](https://kaixomundua.eus/kaixomundua-eus-lehenengo-edizioaren-irabazleak-hemen-dira/)
 
 - 💬 Ask me about **anything**
 
