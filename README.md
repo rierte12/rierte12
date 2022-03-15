@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruben</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rierte12" alt="rierte12" /></a> </p>
-
 - 🔭 I’m currently studying **Informatic Engineering**
 
 - 📄 Im working on [Facultatem](https://github.com/rierte12/facultatem)
