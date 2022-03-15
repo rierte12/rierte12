@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruben</h1>
-<h3 align="center">A passionate developer from Spain</h3>
+<h3 align="center">A passionate developer and informatic engineer student from Spain</h3>
 
-- 🔭 I’m currently studying **Informatic Engineering**
+- 🔭 I’m currently studying **Informatic Engineering** at UPNA/NUP
 
 - 📄 Im working on [Facultatem](https://github.com/rierte12/facultatem)
 
