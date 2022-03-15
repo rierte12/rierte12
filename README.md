@@ -5,7 +5,7 @@
 
 - 📄 Im working on [Facultatem](https://github.com/rierte12/facultatem)
 
-- 👨‍💻 All of my projects are available at [https://naseinu.eus](https://naseinu.eus)
+- 👨‍💻 All of my projects are available at [Naseinu](https://naseinu.eus)
 
 - 📝 Winner of best website in basque (bachelor category) [Read more](https://kaixomundua.eus/kaixomundua-eus-lehenengo-edizioaren-irabazleak-hemen-dira/)
 
