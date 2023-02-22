@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying **Informatic Engineering** at UPNA/NUP
 
-- 📄 Im working on [Facultatem](https://github.com/rierte12/facultatem)
+- 📄 Im working on [Navarra LAN Party](https://navarralanparty.org)
 
 - 👨‍💻 All of my projects are available at [Naseinu](https://naseinu.eus)
 
